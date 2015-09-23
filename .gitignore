@@ -1,0 +1,10 @@
+#package managers
+node_modules
+**/node_modules
+bower_components
+**/bower_components
+
+
+#Windows thumbnail dbs
+Thumbs.db
+**/Thumbs.db
