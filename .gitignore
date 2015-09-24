@@ -8,3 +8,7 @@ bower_components
 #Windows thumbnail dbs
 Thumbs.db
 **/Thumbs.db
+
+#Mac DS_store
+.DS_Store
+**/.DS_Store
